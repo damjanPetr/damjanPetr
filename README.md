@@ -1,7 +1,10 @@
-### Hi there 👋
+### Hi there !
 
 <!--
 **damjanPetr/damjanPetr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+## Languages and tools i use 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,laravel,react,mysql,vscode)](https://skillicons.dev)
 
 Here are some ideas to get you started:
 
@@ -14,3 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Connect with me
