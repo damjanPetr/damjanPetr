@@ -1,4 +1,4 @@
-### Hi there !
+## Hi there !
 
 <!--
 **damjanPetr/damjanPetr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Languages and tools i use
+### Languages and tools i use
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,php,laravel,react,mysql,express,vscode)](https://skillicons.dev)
 
