@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Languages and tools i use
+### Languages And Tools I use
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,laravel,react,mysql,express,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,html,css,php,laravel,react,sql,express,nextjs,vscode)](https://skillicons.dev)
 
 <!-- ### Connect with me -->
