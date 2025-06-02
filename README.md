@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 
 ### Languages And Tools I use
 
-[![My Skills](https://skillicons.dev/icons?i=ts,html,css,php,react,sql,nodejs,graphql,vscode,git,rust)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,html,css,php,react,mysql,nodejs,graphql,vscode,git,rust,)](https://skillicons.dev)
 
 <!-- ### Connect with me -->
